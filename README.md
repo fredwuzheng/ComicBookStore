@@ -13,9 +13,9 @@ It manage and display an inventory of items (objects) for an e-commerce store. C
 
 ## Prerequisites
 
-Postgresql
-Node.js
-Postman
+Postgresql.
+Node.js.
+Postman.
 
 ## Installation
 
